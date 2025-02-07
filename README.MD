@@ -13,7 +13,7 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    src="https://bordalo.observador.pt/v2/q:75/c:770:433:nowe:0:0/rs:fill:980/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2016/09/29124952/meme_770x433_acf_cropped.jpg" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
